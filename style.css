@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(24, 10, 10);
+    .white{
+        text-align: top left;
+    }
+}
+h6{
+    color: rgba(255, 217, 0, 0.884);
+}
+h2{
+    color: white;
+}
+h5{
+    color: gold;
+}
+a{
+    color: white;
+    position: center;
+}
