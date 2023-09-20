@@ -1,19 +1,77 @@
-body{
-    background-color: rgb(24, 10, 10);
-    .white{
-        text-align: top left;
-    }
+body {
+    background: linear-gradient(45deg, black 0%, rgb(59, 30, 2) 40%, maroon 100%)
 }
-h6{
-    color: rgba(255, 217, 0, 0.884);
+nav .nav{
+    position: relative;
 }
-h2{
-    color: white;
+.nav{
+
+    position: absolute;
+    top: 12px;
+    left: 450px;
 }
-h5{
+
+
+.nav a {
+    text-decoration: none;
+    color: #f0f8ff;
+padding-left: 60px;
+
+  
+
+    
+
+}
+.wallet{
+    position: relative;
+    
+}
+.wallet2{
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    border-color: yellow;
+    border-radius: 10px;
+    padding: 8px;
+    position: absolute;
+    top: 12px;
+    right: 70px;
+}
+.wallet2 a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    border-radius: 1px;
+}
+.logo{
+    position: relative;
+}
+.logo1{
+    position: absolute;
+    top: 20px;
+    left: 150px;
+}
+.gold{
     color: gold;
 }
-a{
+.white{
     color: white;
-    position: center;
+}
+.wallet3{
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    border-color: yellow;
+    border-radius: 10px;
+    padding: 8px;
+    position: absolute;
+    top: px;
+    bottom: 450px;
+}
+.ape{
+    box-shadow: none;
+    background-color: black;
+    position: absolute;
+    top: 180px;
+    right: 50px;
 }
